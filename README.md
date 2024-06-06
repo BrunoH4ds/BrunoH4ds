@@ -4,7 +4,8 @@
 
 <div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BrunoH4ds&show_icons=true&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BrunoH4ds&show_icons=true&theme=light#gh-light-mode-only)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoH4ds&hide_progress=false)
 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
