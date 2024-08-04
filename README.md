@@ -1,5 +1,5 @@
 # 👋 Ola! Meu Nome é Bruno Henrique
-- 📖 Eu Estou Atualmente Aprendendo Programaçao em python, javascript, Html, Css
+- 📖 Eu Estou Atualmente Aprendendo Programaçao em Python, javascript, Html, Css
 - 📚 Pretendo Aprender PHP, MySQL, React
 
 <div>
