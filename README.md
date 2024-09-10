@@ -1,8 +1,11 @@
-# 👋 Ola! Meu Nome é Bruno Henrique
-- 📖 Eu Estou Atualmente Aprendendo Programaçao em Python, javascript, Html, Css
-- 📚 Pretendo Aprender PHP, MySQL, React
-
+  <h1 align="center">👋 Ola! Meu Nome é Bruno Henrique</h1>
 <div>
+  <p>📖 Eu Estou Atualmente Aprendendo Programaçao em Python, javascript, Html, Css</p>
+  <p>📚 Pretendo Aprender PHP, MySQL, React</p>
+</div>
+
+
+<div align="center">
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BrunoH4ds&show_icons=true&theme=light#gh-light-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoH4ds&hide_progress=false)
