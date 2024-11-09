@@ -1,7 +1,7 @@
 <table>
   <tr>
         <td style="width: 65% ;">
-            <img src="https://miltonjung.com.br/wp-content/uploads/2017/01/masp-avenida-paulista-vertical_sc3a3o-paulo.jpg" style="width:100%; border: none ; height: 860px"/>
+            <img src="https://miltonjung.com.br/wp-content/uploads/2017/01/masp-avenida-paulista-vertical_sc3a3o-paulo.jpg" style="width:100dvh; border: none ; height: 860px"/>
         </td>
         <td style="width: 25%; vertical-align: middle;">
 
