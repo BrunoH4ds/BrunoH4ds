@@ -1,7 +1,7 @@
 <table>
   <tr>
         <td style="width: 65% ;">
-            <img src="https://steamuserimages-a.akamaihd.net/ugc/2385307813701971650/85E08C26C5F01E81216337F34E29877D444052F4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width:100%; border: none; height:860px ; object-fit: cover;"/>
+            <img src="https://steamuserimages-a.akamaihd.net/ugc/2385307813701971650/85E08C26C5F01E81216337F34E29877D444052F4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width:100%; border: none; height:100% ; object-fit: cover;"/>
         </td>
         <td style="width: 25%; vertical-align: middle;">
 
