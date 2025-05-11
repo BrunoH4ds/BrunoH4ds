@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&repeat=false&width=1050&lines=.%E2%9C%A6+Seja+Bem-Vindo+%E2%9C%A6.;.%E2%9C%A6+Bruno+Henrique+%E2%9C%A6.)](https://git.io/typing-svg)
 <div>
   <p>📗 Aprendi Python, javascript, Html, Css.</p>
-  <p>📖 Eu Estou Atualmente Aprendendo Programaçao em MySql, React, Next.js</p>
+  <p>📖 Eu Estou Atualmente Aprendendo Programaçao em MySql, React, Next.js, typescript</p>
   <p>📚 Pretendo Aprender PHP, Flutter</p>
 </div>
 
