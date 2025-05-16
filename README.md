@@ -1,6 +1,6 @@
 
        
-<img src="https://www.pixground.com/windows-11-black-abstract-bloom-4k-wallpaper/?download-img=2k" style="width:100dvh; border: none ; width: 100%; height: 360px;"/>
+<img src="https://www.itl.cat/pngfile/big/4-43065_anime-wallpaper-gif-1080p.jpg" style=" border: none ; width: 100%; height: 400px;"/>
       
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&pause=3000&color=FFFFFF&center=true&vCenter=true&random=true&repeat=false&width=1050&lines=.%E2%9C%A6+Seja+Bem-Vindo+%E2%9C%A6.;.%E2%9C%A6+Bruno+Henrique+%E2%9C%A6.)](https://git.io/typing-svg)
